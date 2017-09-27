@@ -1,8 +1,8 @@
 {
-  "name": "[BOT Name]",
+  "name": "TECH BOT",
   "version": "0.0.1",
-  "description": "Discord bot",
-  "main": "bot.js",
+  "description": "A Discord bot",
+  "main": "Tech_Bot.js",
   "author": "Benjamin Park",
   "dependencies": {}
 }
