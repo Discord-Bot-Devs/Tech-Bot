@@ -1,6 +1,6 @@
 # TECH BOT
 
-#### Requirements
+### Requirements
 - A Working Install of Windows or Linux
 - Node js
 
