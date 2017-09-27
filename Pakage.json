@@ -1,0 +1,8 @@
+{
+  "name": "[BOT Name]",
+  "version": "0.0.1",
+  "description": "Discord bot",
+  "main": "bot.js",
+  "author": "Benjamin Park",
+  "dependencies": {}
+}
